@@ -22,14 +22,14 @@
     <img src="https://img.shields.io/badge/Contribute-Zama%20Bounty%20Program-%23ffd208?style=flat-square"></a>
   <a href="https://slsa.dev"><img alt="SLSA 3" src="https://slsa.dev/images/gh-badge-level3.svg" /></a>
 </p>
-<>
+
 > [!NOTE]
 >
 > The Zama Confidential Blockchain Protocol Public Testnet is live.
 > Read the litepaper [here](https://docs.zama.ai/protocol/zama-protocol-litepaper).
 
 ## About
-
+<>
 ### What is FHEVM?
 
 **FHEVM** is the core framework of the *Zama Confidential Blockchain Protocol*. It enables confidential smart contracts on EVM-compatible blockchains by leveraging Fully Homomorphic Encryption (FHE), allowing encrypted data to be processed directly onchain.
